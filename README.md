@@ -6,6 +6,15 @@
   <img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000">
 </a>
 
+## 
+
+
+<div id="image" align="center">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+  </a>
+</div>
+
 ## About me
 - 🌱 I’m currently learning ...
 - 📫 You can reach me: [Telegram](https://t.me/VladimirZotkin), [Gmail](mailto:work.zotkin@gmail.com)
