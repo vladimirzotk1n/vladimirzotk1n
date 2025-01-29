@@ -12,7 +12,7 @@
 
 
 ## About me
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 📫 You can reach me: [Telegram](https://t.me/VladimirZotkin), [Gmail](mailto:work.zotkin@gmail.com)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"  width="60" height="60"/>&nbsp;
