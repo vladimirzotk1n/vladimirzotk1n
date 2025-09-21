@@ -1,23 +1,37 @@
-<div id="header" align="center">
-  <h1>Hi there, I’m Vladimir</h1>
-</div>
+# 👋 Hi there! I'm Vladimir
+<br><br>
+## 📫 How to reach me  
 
-<a href="https://t.me/VladimirZotkin">
-  <img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000">
-</a>
-
-## 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladimirZotkin)  
+[![Email](https://img.shields.io/badge/Email-work.zotkin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.zotkin@gmail.com)  
 
 
 
+🎓 Student at **Bauman Moscow State Technical University**  
+💡 Beginner **Machine Learning Engineer**  
+📈 Exploring machine learning and data science  
 
-## About me
-- 🌱 I’m currently learning
-- 📫 You can reach me: [Telegram](https://t.me/VladimirZotkin), [Gmail](mailto:work.zotkin@gmail.com)
+---
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"  width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"  width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"  width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas"  width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="Numpy"  width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="Pytorch"  width="60" height="60"/>&nbsp;
+
+## 🧑‍💻 Tech Stack  
+
+### Core Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+### Additional Tools  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+
