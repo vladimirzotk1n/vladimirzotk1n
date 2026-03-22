@@ -35,7 +35,7 @@ education:
   <a href="mailto:work.zotkin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFC6"/>
   </a>
-  <a href="https://github.com/VladimirZotkin">
+  <a href="https://github.com/vladimirzotk1n">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFC6"/>
   </a>
 </p>
