@@ -84,3 +84,6 @@ education:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=1000"/> 
 </div>
 
+## 🚀 My LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vlq?theme=dark)
