@@ -1,8 +1,6 @@
-<h1 align="center">
-  Hi! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" /> 
-  I'm Vladimir!
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:00AAFF&height=120&section=header&text=Hi!%20I'm%20Vladimir%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;NLP+Enthusiast;Building+AI+Systems" />
@@ -10,9 +8,7 @@
 
 <br>
 
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=1000"/> 
-</div>
+
 
 
 ## ├──📂 About Me
@@ -80,10 +76,10 @@ education:
 → Exploring NLP/LLM research
 ```
 
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=1000"/> 
-</div>
-
 ## 🚀 My LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vlq?theme=dark)
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,100:00FFC6&height=120&section=footer"/>
+</div>
+
